@@ -7,11 +7,14 @@ tools, environment and links
 - [Transit](https://github.com/cognitect/transit-cljs) – A data interchange format and set of libraries for conveying values between applications written in different programming languages.
 
 
-
 ### Database
 - [Datascript](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
 - [Jaki](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
 - [Konserve](https://github.com/replikativ/konserve) – A clojuresque key-value/document store protocol with core.async.
+- [Onyx](http://www.onyxplatform.org/)Data Driven API -Onyx knows how to speak to many storage solutions, including those below.
+
+Kafka Datomic SQL Redis ElasticSearch SQS
+BookKeeper core.async durable-queue lazy sequences
 
 
 ### Document Object Model
@@ -29,18 +32,25 @@ tools, environment and links
 - [Planck](https://github.com/mfikes/planck) – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
 - [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy [examples](https://github.com/thheller/shadow-cljs-examples)
  - [clojupyter](https://github.com/roryk/clojupyter)a Jupyter kernel for Clojure
+ - [Jespen](https://github.com/jepsen-io/jepsen)Breaking distributed systems so you don't have to.Jepsen is a Clojure library.[https://aphyr.com/](https://aphyr.com/)
  
 ### Graphics
 - [thi-ng/geom](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 - [Quil](https://github.com/quil/quil) Clojure/ClojureScript library for creating interactive drawings and animations. 
 - [C2](https://keminglabs.com/c2) – It lets you declaratively create HTML and SVG markup based on data.
 - [clojure2d](https://github.com/Clojure2D/clojure2d) -Java2D wrapper + creative coding supporting functions (based on Processing and openFrameworks)
+- [afterglow](https://github.com/brunchboy/afterglow)- A live-coding lighting controller, building on the Open Lighting Architecture with Clojure and bits of Overtone (rich binding to an Ableton Push or Novation Launchpad).
 
+
+## AI 
+- [cortex](https://github.com/thinktopic/cortex) - Machine learning in Clojure
 
 ### Miscellaneous
 - [Automat](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
+-[compojure](https://github.com/weavejester/compojure) A concise routing library for Ring/Clojure.
 - [markdown-clj](https://github.com/yogthos/markdown-clj) – Markdown parser in Clojure/ClojureScript.
 - [core.async](https://github.com/clojure/core.async/) – A Clojure(Script) library designed to provide facilities for async programming and communication.
+- [feeds2imap](https://github.com/Gonzih/feeds2imap.clj)RSS/Atom reader implemented in Clojure
 - [Garden](https://github.com/noprompt/garden) – A library to Generate CSS with Clojure and ClojureScript.
 - [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [test.check](https://github.com/clojure/test.check) – A generative property-based testing tool inspired by QuickCheck.
@@ -56,6 +66,8 @@ tools, environment and links
 - [chestnut](https://github.com/plexus/chestnut)This template comes with Figwheel + React (+om | +om-next | Reagent | re-frame | Rum | vanilla to ) +Ring + Compojure (Jetty or HttpKit server) + Heroku support +Unit tests 
 
 ### links
+
+ -[modern-cljs](https://github.com/magomimmo/modern-cljs)Modern ClojureScript (modern-cljs) is a series of tutorials that guide you in creating and running ClojureScript (CLJS) projects.
 
 
  - https://github.com/hantuzun/awesome-clojurescript/
