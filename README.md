@@ -1,5 +1,4 @@
-# symmetrical-tribble
-tools, environment and link
+tools, environment and links
 
 
 
@@ -20,9 +19,6 @@ tools, environment and link
 - [Hiccups](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
 - [Sablono](https://github.com/r0man/sablono) – Lisp/Hiccup style templating for Facebook's React in ClojureScript.
 
-
-
-
 ### Development
 - [Ambly](https://github.com/omcljs/ambly) — A ClojureScript REPL into iOS JavaScriptCore.
 - [cljs-devtools](https://github.com/binaryage/cljs-devtools) – Better presentation of ClojureScript values in Chrome Devtools.
@@ -31,14 +27,14 @@ tools, environment and link
 - [lein-figwheel](https://github.com/bhauman/lein-figwheel) – Leiningen plugin that pushes ClojureScript code changes to the client.
 - [Lumo](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
 - [Planck](https://github.com/mfikes/planck) – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
-- [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
-
-
+- [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy [examples](https://github.com/thheller/shadow-cljs-examples)
+ - [clojupyter](https://github.com/roryk/clojupyter)a Jupyter kernel for Clojure
+ 
 ### Graphics
 - [thi-ng/geom](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 - [Quil](https://github.com/quil/quil) Clojure/ClojureScript library for creating interactive drawings and animations. 
 - [C2](https://keminglabs.com/c2) – It lets you declaratively create HTML and SVG markup based on data.
-
+- [clojure2d](https://github.com/Clojure2D/clojure2d) -Java2D wrapper + creative coding supporting functions (based on Processing and openFrameworks)
 
 
 ### Miscellaneous
@@ -49,10 +45,15 @@ tools, environment and link
 - [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [test.check](https://github.com/clojure/test.check) – A generative property-based testing tool inspired by QuickCheck.
 - [spectrum](https://github.com/arohner/spectrum) - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time.
+ - [spectre](https://github.com/nathanmarz/specter) "Clojure's missing piece" Simple manipulating a non simple data structure 
+ - [metosin/spec-tools](https://github.com/metosin/spec-tools) Clojure(Script) tools for clojure.spec
+ - [metosin/komponentit](https://github.com/metosin/komponentit) Collection of bespoke Reagent components
 
 ### [React.js](https://facebook.github.io/react/) Interface
 - [Reagent](http://reagent-project.github.io/) — Minimalistic, feature complete.
 - [Rum](https://github.com/tonsky/rum) — Decomplected, extensible, simple.
+- [re-frankenstein](https://github.com/chpill/re-frankenstein)This is a fork of re-frame to experiment with local state and rum.
+- [chestnut](https://github.com/plexus/chestnut)This template comes with Figwheel + React (+om | +om-next | Reagent | re-frame | Rum | vanilla to ) +Ring + Compojure (Jetty or HttpKit server) + Heroku support +Unit tests 
 
 ### links
 
