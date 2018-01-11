@@ -8,9 +8,6 @@ tools, environment and link
 - [Transit](https://github.com/cognitect/transit-cljs) – A data interchange format and set of libraries for conveying values between applications written in different programming languages.
 
 
-### Data Visualization
-- [C2](https://keminglabs.com/c2) – It lets you declaratively create HTML and SVG markup based on data.
-
 
 ### Database
 - [Datascript](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
@@ -40,6 +37,7 @@ tools, environment and link
 ### Graphics
 - [thi-ng/geom](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 - [Quil](https://github.com/quil/quil) Clojure/ClojureScript library for creating interactive drawings and animations. 
+- [C2](https://keminglabs.com/c2) – It lets you declaratively create HTML and SVG markup based on data.
 
 
 
@@ -50,7 +48,7 @@ tools, environment and link
 - [Garden](https://github.com/noprompt/garden) – A library to Generate CSS with Clojure and ClojureScript.
 - [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [test.check](https://github.com/clojure/test.check) – A generative property-based testing tool inspired by QuickCheck.
-
+- [spectrum](https://github.com/arohner/spectrum) - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time.
 
 ### [React.js](https://facebook.github.io/react/) Interface
 - [Reagent](http://reagent-project.github.io/) — Minimalistic, feature complete.
