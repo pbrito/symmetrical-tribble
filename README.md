@@ -33,6 +33,8 @@ BookKeeper core.async durable-queue lazy sequences
 - [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy [examples](https://github.com/thheller/shadow-cljs-examples)
  - [clojupyter](https://github.com/roryk/clojupyter)a Jupyter kernel for Clojure
  - [Jespen](https://github.com/jepsen-io/jepsen)Breaking distributed systems so you don't have to.Jepsen is a Clojure library.[https://aphyr.com/](https://aphyr.com/)
+ - [mount](https://github.com/tolitius/mount)Managed lifecycle and state in Clojure
+
  
 ### Graphics
 - [thi-ng/geom](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
@@ -55,7 +57,7 @@ BookKeeper core.async durable-queue lazy sequences
 - [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [test.check](https://github.com/clojure/test.check) – A generative property-based testing tool inspired by QuickCheck.
 - [spectrum](https://github.com/arohner/spectrum) - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time.
- - [spectre](https://github.com/nathanmarz/specter) "Clojure's missing piece" Simple manipulating a non simple data structure 
+ - [spectre](https://github.com/nathanmarz/specter) "Clojure's missing piece" Simple manipulating a non simple data structure [video](https://www.youtube.com/watch?v=rh5J4vacG98&t)
  - [metosin/spec-tools](https://github.com/metosin/spec-tools) Clojure(Script) tools for clojure.spec
  - [metosin/komponentit](https://github.com/metosin/komponentit) Collection of bespoke Reagent components
 
@@ -68,6 +70,11 @@ BookKeeper core.async durable-queue lazy sequences
 ### links
 
  -[modern-cljs](https://github.com/magomimmo/modern-cljs)Modern ClojureScript (modern-cljs) is a series of tutorials that guide you in creating and running ClojureScript (CLJS) projects.
-
-
+ 
+###videos
+ -Understanding destructuring in Clojure -[video](https://www.youtube.com/watch?v=R-_uNvM6gpE)
+ -Above and beyond type systems with clojure.spec - Carlo Sciolla [video](https://www.youtube.com/watch?v=aYKndj6rWbU&t)
+ -Understanding pattern matching in Clojure with core.match[video](https://www.youtube.com/watch?v=mi3OtBc73-k)
+ -Pattern matching talk (core.match) - Sean Johnson's Clojure/West[video](https://www.youtube.com/watch?v=mi3OtBc73-k)
+ 
  - https://github.com/hantuzun/awesome-clojurescript/
